@@ -47,7 +47,7 @@ use yii\helpers\Html;
                                             <li><a href="#"><i class="fa fa-phone"></i> 313.882.9230</a></li>
                                         </ul>
                                     </div>
-                                   
+
                                 </div>
                             </div>
 
@@ -114,7 +114,7 @@ use yii\helpers\Html;
         </div>
         <!-- End page Area -->
 		<!-- Start Footer bottom Area -->
-		<div class="footer-area">
+		<!-- <div class="footer-area">
 		   <div class="container">
 			   <div class="row">
 				  <div class="col-md-12 col-sm-12">
@@ -126,7 +126,7 @@ use yii\helpers\Html;
 				   </div>
 			   </div>
 		   </div>
-		</div>
+		</div> -->
 
 
 </div>
